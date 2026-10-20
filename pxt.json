@@ -1,0 +1,22 @@
+{
+    "name": "junicoders-ringbit",
+    "version": "1.0.0",
+    "description": "Carro ring:bit da ELECFREAKS, em português (blocos principais)",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "ringbitcar.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "6.0.17",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
